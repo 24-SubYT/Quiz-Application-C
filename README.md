@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Quiz Application - Multiple Choice Quiz System
 
 ## 📋 Project Overview
@@ -23,11 +22,55 @@ A Console-Based Quiz Application implemented in C programming language designed 
 - **Platform:** Console-based (Cross-platform)
 - **File Handling:** Standard C library (stdio.h, stdlib.h, string.h)
 
-## 📦 Project Structure"" 
-"✅ Now using SSH authentication" 
-"" 
-"✅ Now using SSH authentication" 
-=======
-# Quiz-Application-C
-A File-Based Multiple Choice Quiz System built in C - Project for GITAM University
->>>>>>> 99176de0cf6b8fc80f87bc3035c5686ceee8023d
+
+
+## 🚀 Getting Started
+
+### Compilation
+
+To compile the quiz application, use the GCC compiler:
+
+```bash
+gcc quiz.c -o quiz
+```
+
+### Running the Application
+
+Execute the compiled program:
+
+```bash
+./quiz
+```
+
+## 📖 Usage
+
+1. Launch the program using the command above
+2. The quiz will load questions from `questions.txt` file
+3. Answer each multiple-choice question by entering A, B, C, or D
+4. After completing all questions, the program will display your score and performance rating
+5. Results include detailed analysis and feedback
+
+## 📝 Questions File Format
+
+The `questions.txt` file should follow this format:
+
+```
+Question text here?
+A) First option
+B) Second option
+C) Third option
+D) Fourth option
+Correct Answer: A
+```
+
+Each question must have exactly 4 options and a correct answer indicator.
+
+## 📋 Project Structure
+
+```
+quiz-application-c/
+├── quiz.c              # Main C program source code
+├── questions.txt       # Question database file
+├── README.md          # Project documentation
+└── Design and Implementation.pdf  # Detailed project report
+```
