@@ -1,0 +1,69 @@
+What is the capital of India?
+New Delhi
+Mumbai
+Kolkata
+Chennai
+a
+
+Which programming language is known for system programming?
+Python
+Java
+C
+JavaScript
+c
+
+What does CPU stand for?
+Central Processing Unit
+Central Program Utility
+Computer Personal Unit
+Central Processor Utility
+a
+
+In C programming, which function is used to print output?
+scanf()
+printf()
+print()
+cout()
+b
+
+What is the size of int data type in C (on most systems)?
+2 bytes
+4 bytes
+8 bytes
+1 byte
+b
+
+Which header file is required for file operations in C?
+<stdlib.h>
+<stdio.h>
+<string.h>
+<conio.h>
+b
+
+What is the correct syntax to declare a pointer in C?
+int ptr*;
+int *ptr;
+pointer int ptr;
+ptr int*;
+b
+
+Which loop is guaranteed to execute at least once?
+for loop
+while loop
+do-while loop
+None of the above
+c
+
+What is the Arduino microcontroller based on?
+ARM architecture
+AVR architecture
+x86 architecture
+RISC-V architecture
+b
+
+In IoT systems, what does MQTT stand for?
+Message Queuing Telemetry Transport
+Multiple Queue Transfer Technology
+Message Query Transport Tool
+Multi Queue Transmission Technology
+a
