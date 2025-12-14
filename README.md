@@ -1,3 +1,10 @@
+---
+date: 2025-12-14
+status: Production Ready
+author: Penmetsa Abhishek Varma
+version: 1.0.0
+---
+
 # Quiz Application - Multiple Choice Quiz System
 
 ## 📋 Project Overview
@@ -74,3 +81,35 @@ quiz-application-c/
 ├── README.md          # Project documentation
 └── Design and Implementation.pdf  # Detailed project report
 ```
+
+
+## 📖 Documentation
+
+Comprehensive project documentation is available in the following files:
+
+- **[DEVELOPMENT.md](./DEVELOPMENT.md)** - System architecture, design patterns, and implementation details
+- **[CODE_STANDARDS.md](./CODE_STANDARDS.md)** - C programming conventions, naming standards, and best practices
+- **[TESTING.md](./TESTING.md)** - Test cases, QA procedures, and compilation standards
+- **[Design and Implementation.pdf](./Design%20and%20Implementation%20of%20a%20File-Based%20Multiple%20Choice%20Quiz%20System%20Using%20C%20Programming.pdf)** - Detailed academic project report
+
+## 📋 Repository Status
+
+| Aspect | Status |
+|--------|--------|
+| Build | ✅ Passing |
+| Code Quality | ✅ Professional Standard |
+| Documentation | ✅ Comprehensive |
+| Testing | ✅ Complete |
+| License | ✅ MIT |
+| Version | v1.0.0 |
+
+## 🎓 Academic Information
+
+**Course:** Programming for Problem Solving (PPS)  
+**Institution:** GITAM School of Technology, Visakhapatnam  
+**Department:** Electronics & Communication Engineering  
+**Academic Year:** 2025-26  
+
+---
+
+*Last Updated: December 14, 2025*
