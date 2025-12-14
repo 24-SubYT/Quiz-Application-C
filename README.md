@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Quiz Application - Multiple Choice Quiz System
 
 ## 📋 Project Overview
@@ -26,3 +27,7 @@ A Console-Based Quiz Application implemented in C programming language designed 
 "✅ Now using SSH authentication" 
 "" 
 "✅ Now using SSH authentication" 
+=======
+# Quiz-Application-C
+A File-Based Multiple Choice Quiz System built in C - Project for GITAM University
+>>>>>>> 99176de0cf6b8fc80f87bc3035c5686ceee8023d
