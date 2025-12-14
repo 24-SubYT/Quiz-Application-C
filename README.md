@@ -22,4 +22,5 @@ A Console-Based Quiz Application implemented in C programming language designed 
 - **Platform:** Console-based (Cross-platform)
 - **File Handling:** Standard C library (stdio.h, stdlib.h, string.h)
 
-## 📦 Project Structure
+## 📦 Project Structure"" 
+"✅ Now using SSH authentication" 
