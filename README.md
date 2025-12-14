@@ -24,3 +24,5 @@ A Console-Based Quiz Application implemented in C programming language designed 
 
 ## 📦 Project Structure"" 
 "✅ Now using SSH authentication" 
+"" 
+"✅ Now using SSH authentication" 
