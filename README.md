@@ -1,8 +1,8 @@
 ---
-date: 2025-12-14
-status: Production Ready
-author: Penmetsa Abhishek Varma
-version: 1.0.0
+Date: 2025-12-14
+Status: Production Ready
+Author: Penmetsa Abhishek Varma
+Version: 1.0.0
 ---
 
 # Quiz Application - Multiple Choice Quiz System
